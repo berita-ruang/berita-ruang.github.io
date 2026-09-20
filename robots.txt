@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://berita-ruang.github.io/sitemap.xml
